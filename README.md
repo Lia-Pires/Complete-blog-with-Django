@@ -1,3 +1,3 @@
-# Complete-blog-with-Django
+# Complete blog with Django
 
  A full stack blog application. Using Django/Python. (in progress)
