@@ -3,6 +3,7 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib import messages
 from .forms import UserRegisterForm
 
+
 def register(request):
     if request.method == "POST":
         form = UserRegisterForm(request.POST)
