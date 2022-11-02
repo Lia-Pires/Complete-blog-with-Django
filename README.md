@@ -1,7 +1,7 @@
 # Complete blog with Django
 
 ## About
- A full stack blog application. Using Django/Python. (in progress)
+ A full stack blog application. 
  
  ## Requisitos
  
